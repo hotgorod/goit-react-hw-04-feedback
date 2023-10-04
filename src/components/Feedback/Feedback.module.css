@@ -1,0 +1,13 @@
+.text {
+  margin: 15px auto;
+  font-family: 'Croissant One', cursive;
+  font-size: 32px;
+  color: white;
+  text-align: center;
+}
+.textStatistics {
+  margin: 15px auto;
+  font-family: Neucha, sans-serif;
+  font-size: 22px;
+  text-align: center;
+}
